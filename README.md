@@ -4,7 +4,7 @@
 
 Submitted by: **Camila Aichele**
 
-**Name of your app** is a movie browsing app that... [TODO] 
+**Flixster** is a movie browsing app that... [TODO] 
 
 Time spent: **X** hours spent in total
 
