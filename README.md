@@ -32,14 +32,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/103790405/215935172-8c04b34d-8cd9-4501-abb8-b29658a6d539.gif)
 
-<!-- https://ezgif.com -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/103790405/215935183-dd16a95b-cf9a-4759-a8aa-5a83cf4bf197.gif)
+
+
+GIF created with https://ezgif.com  
+
 
 ## Notes
 
