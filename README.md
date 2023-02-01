@@ -1,4 +1,4 @@
-# CodepathFlixster
+# CodepathFlixsterPt1
 
 # Project 2 - *Flixster*
 
