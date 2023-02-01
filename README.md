@@ -4,19 +4,19 @@
 
 Submitted by: **Camila Aichele**
 
-**Flixster** is a movie browsing app that... [TODO] 
+**Flixster** is a movie browsing app that shows the new movies out now andd their descriptions. There is also popularity count and vote count. 
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are able to see a customized app icon and launch screen
-- [ ] Your app should work for any screen size and orientation using AutoLayout constraints
-  - [ ] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
-- [ ] Displays at least 5 different movies in a table view
-- [ ] Can tap into detail view of movie with a full description, backdrop image, and title
+- [X] Users are able to see a customized app icon and launch screen
+- [X] Your app should work for any screen size and orientation using AutoLayout constraints
+  - [X] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
+- [X] Displays at least 5 different movies in a table view
+- [X] Can tap into detail view of movie with a full description, backdrop image, and title
  
 The following **optional** features are implemented:
 
@@ -34,7 +34,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
+<!-- https://ezgif.com -->
 GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
